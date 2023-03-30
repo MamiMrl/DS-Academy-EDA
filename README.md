@@ -28,13 +28,11 @@ git remote -v
 
 If you see two lines indicating the repository locations, you have sucessfully connected your local repository to the remote repository.
 
-### License
+## License
 This project is licensed under the MIT License.
 
-### Contact
-Please feel free to contact the project team for any questions or feedback.
 
-### Contributors
+## Contributors
 <table style="table-layout: fixed; width: 100%;">
   <tr>
     <td>
@@ -52,3 +50,5 @@ Please feel free to contact the project team for any questions or feedback.
   </tr>
 </table>
 
+### Contact
+Please feel free to contact the project team for any questions or feedback.
