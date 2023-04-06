@@ -46,7 +46,25 @@ This project is licensed under the MIT License.
         <a href="https://github.com/hkolatan"><img src="https://avatars.githubusercontent.com/u/85988507?s=400&u=35029c900a7a6b10fc244a4f9f7df8252778360c&v=4" width=150></a>
       </div>
       <a href="https://github.com/hkolatan"> Halil Kolatan </a>
+    </td>
+ <td>
+      <div>
+        <a href="https://github.com/Egemendogruel35"><img src="https://avatars.githubusercontent.com/u/121460987?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/Egemendogruel35"> Egemen Doğruel </a>
+    </td>     
+ <td>
+      <div>
+        <a href="https://github.com/aycetintugce"><img src="https://avatars.githubusercontent.com/u/126796817?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/aycetintugce"> Tuğçe Ayçetin </a>
     </td>   
+ <td>
+      <div>
+        <a href="https://github.com/ebrarolcer"><img src="https://avatars.githubusercontent.com/u/125158029?v=4" width=150></a>
+      </div>
+      <a href="https://github.com/ebrarolcer"> Ebrar Ölçer </a>
+    </td>    
   </tr>
 </table>
 
